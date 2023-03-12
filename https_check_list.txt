@@ -1,0 +1,8 @@
+www.pabburi.co.kr
+
+#
+# 아래는 외부서버에서 ssl 인증서 체크 해볼것들
+#   > 멀티도메인은 다른 서버가 아니라면 1개만 하면 된다.
+#
+www.naver.com
+www.daum.net
