@@ -25,10 +25,10 @@
   - 만료 날짜가 얼마 남지 않았으면 담당자에게 메시지를 보내줍니다.<br>
     최근엔 슬렉, 텔레그램, 네이버워크, 카카오워크 등 무료로 받아 볼 수 있는 방법들이 많습니다.
 
-  - 카카오워크 메시지 보내기<br>
-    https://www.pabburi.co.kr/content/php/%EC%B9%B4%EC%B9%B4%EC%98%A4%EC%9B%8C%ED%81%AC-api-%EB%A6%AC%EC%95%A1%ED%8B%B0%EB%B8%8Creactive-%EB%A9%94%EC%84%B8%EC%A7%80-%EB%B3%B4%EB%82%B4%EA%B8%B0/
-  - 텔레그램<br>
-    https://www.pabburi.co.kr/content/linux_server/%ED%85%94%EB%A0%88%EA%B7%B8%EB%9E%A8-api-bash%EC%89%98%EC%97%90%EC%84%9C-curl-%ED%99%9C%EC%9A%A9-%EB%A9%94%EC%84%B8%EC%A7%80-%EB%B3%B4%EB%82%B4%EB%8A%94-%EB%B0%A9%EB%B2%95/
-  - 네이버윅스<br>
-    https://www.pabburi.co.kr/content/linux_server/%EB%84%A4%EC%9D%B4%EB%B2%84%EC%9C%85%EC%8A%A4-api-bash%EC%89%98%EC%97%90%EC%84%9C-curl-%ED%99%9C%EC%9A%A9-%EB%A9%94%EC%84%B8%EC%A7%80-%EB%B3%B4%EB%82%B4%EB%8A%94-%EB%B0%A9%EB%B2%95/
+  - [카카오워크 메시지 보내기](https://www.pabburi.co.kr/content/php/%EC%B9%B4%EC%B9%B4%EC%98%A4%EC%9B%8C%ED%81%AC-api-%EB%A6%AC%EC%95%A1%ED%8B%B0%EB%B8%8Creactive-%EB%A9%94%EC%84%B8%EC%A7%80-%EB%B3%B4%EB%82%B4%EA%B8%B0/)
+
+  - [텔레그램](https://www.pabburi.co.kr/content/linux_server/%ED%85%94%EB%A0%88%EA%B7%B8%EB%9E%A8-api-bash%EC%89%98%EC%97%90%EC%84%9C-curl-%ED%99%9C%EC%9A%A9-%EB%A9%94%EC%84%B8%EC%A7%80-%EB%B3%B4%EB%82%B4%EB%8A%94-%EB%B0%A9%EB%B2%95/)
+
+  - [네이버윅스](https://www.pabburi.co.kr/content/linux_server/%EB%84%A4%EC%9D%B4%EB%B2%84%EC%9C%85%EC%8A%A4-api-bash%EC%89%98%EC%97%90%EC%84%9C-curl-%ED%99%9C%EC%9A%A9-%EB%A9%94%EC%84%B8%EC%A7%80-%EB%B3%B4%EB%82%B4%EB%8A%94-%EB%B0%A9%EB%B2%95/)
+
 
