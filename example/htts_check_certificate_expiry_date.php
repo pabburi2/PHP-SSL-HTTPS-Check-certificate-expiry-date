@@ -1,8 +1,8 @@
-#!/usr/local/bin/php73
 <?
 /**
  * ---------------------------------------------------------------------------
  *
+ *  리눅스 쉘에서 절차형으로 간단하게 사용하기 좋은 형태
  *  PHP-SSL-HTTPS-Check-certificate-expiry-date
  *
  *  Date  : 2023.03.12
@@ -56,7 +56,7 @@ if ( $MODE == 'ssl_check' )
   $aMonthName['9월']   = 'Sep';
 
   #
-  $fileName     = __DIR__ . "/https_check_list.txt";
+  $fileName     = __DIR__ . '/test-HttsCheckCertificateExpiryDate_check_list.txt';
   if ( is_file($fileName) )
   {
     $fpHandle     = fopen($fileName, "r");
